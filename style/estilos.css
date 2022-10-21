@@ -168,7 +168,7 @@ footer{
     width: 50px;
     border-radius: 50px;
     border:1px solid #f2f2f2;
-    background-image: url(/image/facebook.png);
+    background-image: url('https://cdn-icons-png.flaticon.com/512/2504/2504903.png');
     background-position: center;
     background-size: 40%;
     background-repeat: no-repeat;
