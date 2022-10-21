@@ -168,7 +168,7 @@ footer{
     width: 50px;
     border-radius: 50px;
     border:1px solid #f2f2f2;
-    background: url('https://cdn-icons-png.flaticon.com/512/2504/2504903.png');
+    background-image: url('https://cdn-icons-png.flaticon.com/512/2504/2504903.png');
     background-position: center;
     background-size: 40%;
     background-repeat: no-repeat;
@@ -179,7 +179,7 @@ footer{
     filter:invert(1);
 }
 .social-icon:nth-of-type(2){
-    background: url(/image/instagram.png);
+    background-image: url(/image/instagram.png);
 
 }
 .social-icon:nth-of-type(3){
