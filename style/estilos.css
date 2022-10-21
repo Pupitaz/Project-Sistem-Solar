@@ -179,15 +179,15 @@ footer{
     filter:invert(1);
 }
 .social-icon:nth-of-type(2){
-    background-image: url(/image/instagram.png);
+    background-image: url('https://cdn-icons-png.flaticon.com/512/2111/2111463.png');
 
 }
 .social-icon:nth-of-type(3){
-    background-image: url(/image/twitter.png);
+    background-image: url('https://cdn-icons-png.flaticon.com/512/733/733579.png');
     
 }
 .social-icon:nth-of-type(4){
-    background-image: url(/image/youtube.png);
+    background-image: url('https://cdn-icons-png.flaticon.com/512/3670/3670147.png');
     
 }
 
